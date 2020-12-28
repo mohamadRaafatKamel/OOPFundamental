@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4eb3c396-d54c-4856-b931-0101aead9113" name="Default Changelist" comment="" />
+    <list default="true" id="4eb3c396-d54c-4856-b931-0101aead9113" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.phpunit.result.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/Creational/pool/tests/PoolTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/Creational/pool/PoolTest.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,7 +72,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/composer.json" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/vendor/phpunit/phpunit/phpunit" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -86,11 +91,11 @@
   </component>
   <component name="RunManager" selected="PHPUnit.PoolTest.testCanGetNewInstancesWithGet (1)">
     <configuration name="PoolTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
-      <TestRunner class="OOPFundamental\DesignPatterns\Creational\pool\PoolTest" file="$PROJECT_DIR$/DesignPatterns/Creational/pool/tests/PoolTest.php" scope="Class" />
+      <TestRunner class="OOPFundamental\DesignPatterns\Creational\pool\PoolTest" file="$PROJECT_DIR$/DesignPatterns/Creational/pool/PoolTest.php" scope="Class" />
       <method v="2" />
     </configuration>
     <configuration name="PoolTest.testCanGetNewInstancesWithGet (1)" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
-      <TestRunner class="OOPFundamental\DesignPatterns\Creational\pool\PoolTest" file="$PROJECT_DIR$/DesignPatterns/Creational/pool/tests/PoolTest.php" method="testCanGetNewInstancesWithGet" scope="Method" />
+      <TestRunner class="OOPFundamental\DesignPatterns\Creational\pool\PoolTest" file="$PROJECT_DIR$/DesignPatterns/Creational/pool/PoolTest.php" method="testCanGetNewInstancesWithGet" scope="Method" />
       <method v="2" />
     </configuration>
     <configuration name="PoolTest.testCanGetNewInstancesWithGet" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
@@ -98,14 +103,14 @@
       <method v="2" />
     </configuration>
     <configuration name="PoolTest.testCanGetSameInstanceTwiceWhenDisposingItFirst" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
-      <TestRunner class="OOPFundamental\DesignPatterns\Creational\pool\PoolTest" file="$PROJECT_DIR$/DesignPatterns/Creational/pool/tests/PoolTest.php" method="testCanGetSameInstanceTwiceWhenDisposingItFirst" scope="Method" />
+      <TestRunner class="OOPFundamental\DesignPatterns\Creational\pool\PoolTest" file="$PROJECT_DIR$/DesignPatterns/Creational/pool/PoolTest.php" method="testCanGetSameInstanceTwiceWhenDisposingItFirst" scope="Method" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="PHPUnit.PoolTest.testCanGetNewInstancesWithGet (1)" />
-        <item itemvalue="PHPUnit.PoolTest.testCanGetSameInstanceTwiceWhenDisposingItFirst" />
         <item itemvalue="PHPUnit.PoolTest" />
+        <item itemvalue="PHPUnit.PoolTest.testCanGetSameInstanceTwiceWhenDisposingItFirst" />
         <item itemvalue="PHPUnit.PoolTest.testCanGetNewInstancesWithGet" />
       </list>
     </recent_temporary>
@@ -128,7 +133,7 @@
       <workItem from="1608915104697" duration="2577000" />
       <workItem from="1609037403793" duration="4875000" />
       <workItem from="1609124096605" duration="4495000" />
-      <workItem from="1609128802345" duration="1472000" />
+      <workItem from="1609128802345" duration="3300000" />
     </task>
     <task id="LOCAL-00001" summary="singleton">
       <created>1608583766529</created>
@@ -193,7 +198,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609130226718</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="pool">
+      <created>1609130323914</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1609130323914</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
