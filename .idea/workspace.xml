@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4eb3c396-d54c-4856-b931-0101aead9113" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="master" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.3">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1lyr7a3Z2ANgISsDPmGI6jpxsKj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/composer.json" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="Push.Settings">
+    <option name="SHOW_DETAILS_PANEL" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\www\OOPFundamental\DesignPatterns\Creational\pool\tests" />
+      <recent name="C:\www\OOPFundamental\DesignPatterns\Creational\pool" />
+      <recent name="C:\www\OOPFundamental\DesignPatterns" />
+      <recent name="C:\www\OOPFundamental\DesignPatterns\Singleton" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHPUnit.PoolTest.testCanGetNewInstancesWithGet (1)">
+    <configuration name="PoolTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="OOPFundamental\DesignPatterns\Creational\pool\PoolTest" file="$PROJECT_DIR$/DesignPatterns/Creational/pool/tests/PoolTest.php" scope="Class" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PoolTest.testCanGetNewInstancesWithGet (1)" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="OOPFundamental\DesignPatterns\Creational\pool\PoolTest" file="$PROJECT_DIR$/DesignPatterns/Creational/pool/tests/PoolTest.php" method="testCanGetNewInstancesWithGet" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PoolTest.testCanGetNewInstancesWithGet" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="PoolTest" file="$PROJECT_DIR$/DesignPatterns/Creational/pool/Worker.php" method="testCanGetNewInstancesWithGet" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PoolTest.testCanGetSameInstanceTwiceWhenDisposingItFirst" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="OOPFundamental\DesignPatterns\Creational\pool\PoolTest" file="$PROJECT_DIR$/DesignPatterns/Creational/pool/tests/PoolTest.php" method="testCanGetSameInstanceTwiceWhenDisposingItFirst" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.PoolTest.testCanGetNewInstancesWithGet (1)" />
+        <item itemvalue="PHPUnit.PoolTest.testCanGetSameInstanceTwiceWhenDisposingItFirst" />
+        <item itemvalue="PHPUnit.PoolTest" />
+        <item itemvalue="PHPUnit.PoolTest.testCanGetNewInstancesWithGet" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4eb3c396-d54c-4856-b931-0101aead9113" name="Default Changelist" comment="" />
+      <created>1608580006363</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608580006363</updated>
+      <workItem from="1608580007742" duration="161000" />
+      <workItem from="1608580438504" duration="1487000" />
+      <workItem from="1608583704227" duration="1331000" />
+      <workItem from="1608610457176" duration="3705000" />
+      <workItem from="1608687389022" duration="4815000" />
+      <workItem from="1608743995397" duration="1003000" />
+      <workItem from="1608824239600" duration="106000" />
+      <workItem from="1608915104697" duration="2577000" />
+      <workItem from="1609037403793" duration="4875000" />
+      <workItem from="1609124096605" duration="4495000" />
+      <workItem from="1609128802345" duration="1472000" />
+    </task>
+    <task id="LOCAL-00001" summary="singleton">
+      <created>1608583766529</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608583766529</updated>
+    </task>
+    <task id="LOCAL-00002" summary="SimpleSingleton">
+      <created>1608689625299</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608689625299</updated>
+    </task>
+    <task id="LOCAL-00003" summary="SimpleSingleton">
+      <created>1608733574951</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608733574951</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Abstract Factory">
+      <created>1609037604624</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1609037604624</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Abstract Factory">
+      <created>1609038558482</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1609038558482</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Builder">
+      <created>1609105615356</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1609105615368</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Builder">
+      <created>1609107748677</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1609107748677</updated>
+    </task>
+    <task id="LOCAL-00008" summary="pool">
+      <created>1609128309877</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1609128309877</updated>
+    </task>
+    <task id="LOCAL-00009" summary="pool">
+      <created>1609130226718</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1609130226718</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="singleton" />
+    <MESSAGE value="SimpleSingleton" />
+    <MESSAGE value="Abstract Factory" />
+    <MESSAGE value="Builder" />
+    <MESSAGE value="pool" />
+    <option name="LAST_COMMIT_MESSAGE" value="pool" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
