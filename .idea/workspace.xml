@@ -2,10 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4eb3c396-d54c-4856-b931-0101aead9113" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.phpunit.result.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/Creational/Prototype/BookPrototype.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/Creational/Prototype/ComicBookPrototype.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/Creational/Prototype/MangaBookPrototype.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/Creational/Prototype/prototypeTest.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/Creational/pool/tests/PoolTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/Creational/pool/PoolTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.phpunit.result.cache" beforeDir="false" afterPath="$PROJECT_DIR$/.phpunit.result.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/AbstractFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/Creational/AbstractFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/Builder.php" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/Creational/Builder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/FactoryMethod.php" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/Creational/FactoryMethod.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/Singleton.php" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/Creational/Singleton.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,13 +89,14 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\www\OOPFundamental\DesignPatterns\Creational\pool\tests" />
+      <recent name="C:\www\OOPFundamental\DesignPatterns\Creational" />
       <recent name="C:\www\OOPFundamental\DesignPatterns\Creational\pool" />
+      <recent name="C:\www\OOPFundamental\DesignPatterns\Creational\pool\tests" />
       <recent name="C:\www\OOPFundamental\DesignPatterns" />
       <recent name="C:\www\OOPFundamental\DesignPatterns\Singleton" />
     </key>
   </component>
-  <component name="RunManager" selected="PHPUnit.PoolTest.testCanGetNewInstancesWithGet (1)">
+  <component name="RunManager" selected="PHPUnit.prototypeTest.testCanGetMangaBook">
     <configuration name="PoolTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
       <TestRunner class="OOPFundamental\DesignPatterns\Creational\pool\PoolTest" file="$PROJECT_DIR$/DesignPatterns/Creational/pool/PoolTest.php" scope="Class" />
       <method v="2" />
@@ -98,20 +105,25 @@
       <TestRunner class="OOPFundamental\DesignPatterns\Creational\pool\PoolTest" file="$PROJECT_DIR$/DesignPatterns/Creational/pool/PoolTest.php" method="testCanGetNewInstancesWithGet" scope="Method" />
       <method v="2" />
     </configuration>
-    <configuration name="PoolTest.testCanGetNewInstancesWithGet" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
-      <TestRunner class="PoolTest" file="$PROJECT_DIR$/DesignPatterns/Creational/pool/Worker.php" method="testCanGetNewInstancesWithGet" scope="Method" />
+    <configuration name="prototypeTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="prototypeTest" file="$PROJECT_DIR$/DesignPatterns/Creational/Prototype/prototypeTest.php" scope="Class" />
       <method v="2" />
     </configuration>
-    <configuration name="PoolTest.testCanGetSameInstanceTwiceWhenDisposingItFirst" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
-      <TestRunner class="OOPFundamental\DesignPatterns\Creational\pool\PoolTest" file="$PROJECT_DIR$/DesignPatterns/Creational/pool/PoolTest.php" method="testCanGetSameInstanceTwiceWhenDisposingItFirst" scope="Method" />
+    <configuration name="prototypeTest.testCanGetMangaBook (1)" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="prototypeTest" file="$PROJECT_DIR$/DesignPatterns/Creational/Prototype/prototypeTest.php" method="testCanGetMangaBook" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <configuration name="prototypeTest.testCanGetMangaBook" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="DesignPatterns\Creational\Prototype\prototypeTest" file="$PROJECT_DIR$/DesignPatterns/Creational/Prototype/prototypeTest.php" method="testCanGetMangaBook" scope="Method" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="PHPUnit.prototypeTest.testCanGetMangaBook" />
+        <item itemvalue="PHPUnit.prototypeTest.testCanGetMangaBook (1)" />
+        <item itemvalue="PHPUnit.prototypeTest" />
         <item itemvalue="PHPUnit.PoolTest.testCanGetNewInstancesWithGet (1)" />
         <item itemvalue="PHPUnit.PoolTest" />
-        <item itemvalue="PHPUnit.PoolTest.testCanGetSameInstanceTwiceWhenDisposingItFirst" />
-        <item itemvalue="PHPUnit.PoolTest.testCanGetNewInstancesWithGet" />
       </list>
     </recent_temporary>
   </component>
@@ -133,7 +145,7 @@
       <workItem from="1608915104697" duration="2577000" />
       <workItem from="1609037403793" duration="4875000" />
       <workItem from="1609124096605" duration="4495000" />
-      <workItem from="1609128802345" duration="3300000" />
+      <workItem from="1609128802345" duration="5136000" />
     </task>
     <task id="LOCAL-00001" summary="singleton">
       <created>1608583766529</created>
@@ -205,7 +217,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609130323914</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="pool">
+      <created>1609132716593</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1609132716593</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -234,5 +253,8 @@
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
     <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/OOPFundamental@prototypeTest_testCanGetMangaBook.xml" NAME="prototypeTest.testCanGetMangaBook Coverage Results" MODIFIED="1609149357403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="PhpCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
