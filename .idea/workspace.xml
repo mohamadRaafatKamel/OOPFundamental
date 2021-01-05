@@ -1,38 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4eb3c396-d54c-4856-b931-0101aead9113" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../swichCar/swichcar/web/css/ajax-loader.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../swichCar/swichcar/web/css/fonts/Cairo-Black.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../swichCar/swichcar/web/css/fonts/Cairo-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../swichCar/swichcar/web/css/fonts/Cairo-ExtraLight.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../swichCar/swichcar/web/css/fonts/Cairo-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../swichCar/swichcar/web/css/fonts/Cairo-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../swichCar/swichcar/web/css/fonts/Cairo-SemiBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../swichCar/swichcar/web/css/fonts/GE SS Two Bold.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../swichCar/swichcar/web/css/fonts/sky-bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../swichCar/swichcar/web/css/fonts/sky.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../swichCar/swichcar/web/css/fonts/slick-2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../swichCar/swichcar/web/css/fonts/slick-3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../swichCar/swichcar/web/css/fonts/slick-4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../swichCar/swichcar/web/css/fonts/slick.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../swichCar/swichcar/web/css/fonts/slickd41d.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../swichCar/swichcar/web/css/plugins.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../swichCar/swichcar/web/css/stylertl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../swichCar/swichcar/web/css0/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../swichCar/swichcar/web/js/custom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../swichCar/swichcar/web/js/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../swichCar/swichcar/web/js/plugins.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../swichCar/swichcar/web/js/plugins2.js" afterDir="false" />
+    <list default="true" id="4eb3c396-d54c-4856-b931-0101aead9113" name="Default Changelist" comment="Design Reset">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Default_Changelist_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../swichCar/swichcar/assets/AppAsset.php" beforeDir="false" afterPath="$PROJECT_DIR$/../swichCar/swichcar/assets/AppAsset.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../swichCar/swichcar/swichcarDS/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../swichCar/swichcar/swichcarDS/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../swichCar/swichcar/web/css/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/../swichCar/swichcar/web/css0/home.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../swichCar/swichcar/web/css/maps/home.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../swichCar/swichcar/web/css0/maps/home.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../swichCar/swichcar/web/css/maps/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../swichCar/swichcar/web/css0/maps/style.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../swichCar/swichcar/web/css/site.css" beforeDir="false" afterPath="$PROJECT_DIR$/../swichCar/swichcar/web/css0/site.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../swichCar/swichcar/web/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../swichCar/swichcar/web/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../swichCar/swichcar/web/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../swichCar/swichcar/web/js0/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swichCar/swichcar/views/site/_car_item.php" beforeDir="false" afterPath="$PROJECT_DIR$/../swichCar/swichcar/views/site/_car_item.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,6 +82,9 @@
     <option name="SHOW_DETAILS_PANEL" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\www\swichCar\swichcar\web" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\www\OOPFundamental\DesignPatterns\Creational" />
       <recent name="C:\www\OOPFundamental\DesignPatterns\Creational\pool" />
@@ -167,7 +143,8 @@
       <workItem from="1609037403793" duration="4875000" />
       <workItem from="1609124096605" duration="4495000" />
       <workItem from="1609128802345" duration="6113000" />
-      <workItem from="1609527903877" duration="1192000" />
+      <workItem from="1609527903877" duration="9842000" />
+      <workItem from="1609708109842" duration="8141000" />
     </task>
     <task id="LOCAL-00001" summary="singleton">
       <created>1608583766529</created>
@@ -253,7 +230,35 @@
       <option name="project" value="LOCAL" />
       <updated>1609149432684</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="switch car Design init">
+      <created>1609530144738</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1609530144738</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Design init">
+      <created>1609563940600</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1609563940600</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Design Reset">
+      <created>1609708194052</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1609708194052</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Design Reset">
+      <created>1609710040003</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1609710040003</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -279,7 +284,10 @@
     <MESSAGE value="Builder" />
     <MESSAGE value="pool" />
     <MESSAGE value="Prototype" />
-    <option name="LAST_COMMIT_MESSAGE" value="Prototype" />
+    <MESSAGE value="switch car Design init" />
+    <MESSAGE value="Design init" />
+    <MESSAGE value="Design Reset" />
+    <option name="LAST_COMMIT_MESSAGE" value="Design Reset" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
